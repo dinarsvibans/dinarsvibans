@@ -1,23 +1,16 @@
-### Hello there 👋
+### Hello there, I am Dinars 👋
 
+...
+
+I am a passionate developer and problem solver, committed to learning and creating.
+
+...
+
+Connect with me 🔗
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dinarsvibans/)
+**🧰 My toolbox:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,nextjs,nodejs,vuejs,angular,bootstrap,mongodb,mysql)](https://skillicons.dev)
-<!--
-**dinarsvibans/dinarsvibans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div>
-@octocat :
-<a href="https://skillicons.dev">
-img
-<div/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My best projects
