@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,nextjs,nodejs,vuejs,angular,bootstrap,github,mongodb,mysql,redux)](https://skillicons.dev)
 <!--
 **dinarsvibans/dinarsvibans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+@octocat :
+<a href="https://skillicons.dev">
+img
+<div/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
