@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,nextjs,nodejs,vuejs,angular,bootstrap,github,mongodb,mysql,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,nextjs,nodejs,vuejs,angular,bootstrap,mongodb,mysql)](https://skillicons.dev)
 <!--
 **dinarsvibans/dinarsvibans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
